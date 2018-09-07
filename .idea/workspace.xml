@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d7eb5b03-284d-434e-9cd1-9ab7d1972a0e" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/src/h10/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/h14/KaartSpel.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/src/h14/resources/applaus.wav" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/h14/KaartSpel.java" afterPath="$PROJECT_DIR$/src/h14/KaartSpel.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,8 +48,8 @@
       <file leaf-file-name="KaartSpel.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/h14/KaartSpel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="2" selection-end-line="102" selection-end-column="23" />
+            <state relative-caret-position="913">
+              <caret line="79" column="1" lean-forward="false" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -412,12 +411,12 @@
       <workItem from="1536051064605" duration="10506000" />
       <workItem from="1536128891964" duration="19519000" />
       <workItem from="1536231509083" duration="2278000" />
-      <workItem from="1536309269168" duration="1788000" />
+      <workItem from="1536309269168" duration="2408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34091000" />
+    <option name="totallyTimeSpent" value="34711000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="489" y="0" width="974" height="1068" extended-state="0" />
@@ -738,8 +737,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/h14/KaartSpel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="2" selection-end-line="102" selection-end-column="23" />
+        <state relative-caret-position="913">
+          <caret line="79" column="1" lean-forward="false" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -77,8 +77,7 @@ public class KaartSpel extends Applet {
 
     public void paint(Graphics g) {
 
-        g.drawString(kleur1, 50, 60);
-        g.drawString(kleur2, 50, 80);
+ 
         int x1 = 50;
         int x2 = 250;
         int x3 = 450;
