@@ -77,7 +77,7 @@ public class KaartSpel extends Applet {
 
     public void paint(Graphics g) {
 
- 
+
         int x1 = 50;
         int x2 = 250;
         int x3 = 450;
